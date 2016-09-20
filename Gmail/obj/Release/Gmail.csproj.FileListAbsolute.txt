@@ -1,0 +1,13 @@
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Release\Gmail.exe.config
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Release\Gmail.exe.manifest
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Release\Gmail.application
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Release\Gmail.exe
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Release\Gmail.pdb
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.Form1.resources
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.Properties.Resources.resources
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.csproj.GenerateResource.Cache
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.exe.manifest
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.application
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.exe
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.pdb
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.csprojResolveAssemblyReference.cache

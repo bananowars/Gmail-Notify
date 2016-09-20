@@ -1,0 +1,16 @@
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Debug\Gmail.exe.config
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Debug\Gmail.exe
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Debug\Gmail.pdb
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.csprojResolveAssemblyReference.cache
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.Properties.Resources.resources
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.csproj.GenerateResource.Cache
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.exe
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.pdb
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.Form1.resources
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Debug\Gmail.exe.manifest
+C:\Users\Bananowars\Desktop\Gmail\Gmail\bin\Debug\Gmail.application
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.exe.manifest
+C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.application
+E:\Файлы\Програмирование\Проэкты VS\Gmail\Gmail\bin\Debug\Gmail.exe.config
+E:\Файлы\Програмирование\Проэкты VS\Gmail\Gmail\obj\Debug\Gmail.exe
+E:\Файлы\Програмирование\Проэкты VS\Gmail\Gmail\obj\Debug\Gmail.pdb
