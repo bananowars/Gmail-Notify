@@ -11,3 +11,12 @@ C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.application
 C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.exe
 C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.pdb
 C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Release\Gmail.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\bin\Release\Gmail.exe.config
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Release\Gmail.exe
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Release\Gmail.pdb
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\bin\Release\Gmail.exe
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\bin\Release\Gmail.pdb
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Release\Gmail.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Release\Gmail.Form1.resources
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Release\Gmail.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Release\Gmail.csproj.GenerateResource.Cache

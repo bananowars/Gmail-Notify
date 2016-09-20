@@ -14,3 +14,12 @@ C:\Users\Bananowars\Desktop\Gmail\Gmail\obj\Debug\Gmail.application
 E:\Файлы\Програмирование\Проэкты VS\Gmail\Gmail\bin\Debug\Gmail.exe.config
 E:\Файлы\Програмирование\Проэкты VS\Gmail\Gmail\obj\Debug\Gmail.exe
 E:\Файлы\Програмирование\Проэкты VS\Gmail\Gmail\obj\Debug\Gmail.pdb
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\bin\Debug\Gmail.exe.config
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Debug\Gmail.exe
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Debug\Gmail.pdb
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Debug\Gmail.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Debug\Gmail.Form1.resources
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Debug\Gmail.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\obj\Debug\Gmail.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\bin\Debug\Gmail.exe
+C:\Users\Андрей\Desktop\Gmail-Notify\Gmail\bin\Debug\Gmail.pdb
